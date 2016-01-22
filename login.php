@@ -24,6 +24,7 @@ if(isset($_POST['nomeUtente']) && isset($_POST['password']))
     if($numRows==1)
     {
     	echo "sei loggato";
+		echo "ciaooooo";
         $_SESSION['username'] = $user;
         $_SESSION['password'] = $pass;
         echo "<a href = \"esci.php\">esci</a>";
