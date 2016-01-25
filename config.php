@@ -1,8 +1,8 @@
 <?php
 	$myServer = "localhost";
-	$myUser ="band4u";
+	$myUser ="ypband";
 	$myPass ="";
-	$myDB ="my_band4u";
+	$myDB ="my_ypband";
 
 	// connssione
 	$dbhandle = mysqli_connect ($myServer,$myUser,$myPass,$myDB)
