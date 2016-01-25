@@ -1,0 +1,1 @@
+template da mettere http://themekit.aws.ipv4.ro/dist/themes/social-2/index.html
